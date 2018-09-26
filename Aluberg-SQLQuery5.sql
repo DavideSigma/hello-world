@@ -5,6 +5,7 @@
 	DECLARE @codCliente nvarchar(10) = '0301035'
 
 MODIFICHE APPORTATE SU GITHUB
+ok vanno bene
 
 	--AtexOCORDDDSA1.Text = DataControl1.Recordset!OCORDTDESS & " " & DataControl1.Recordset!OCORDTFORM & " " & DataControl1.Recordset!OCORDTLAL1 & " " & DataControl1.Recordset!OCORDTASL1 & IIf(DataControl1.Recordset!OCORDTLATE = "1", " (Ext.) ", " ") & DataControl1.Recordset!OCORDTLAL2 & " " & DataControl1.Recordset!OCORDTASL2 & IIf(DataControl1.Recordset!OCORDTLATE = "2", " (Ext.)", "")
  --   txtOCORDDRIFO.Text & " del " & txtOCORDDDRIO.Text
